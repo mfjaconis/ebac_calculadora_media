@@ -3,7 +3,7 @@
 - Primeiro informe a média para que o aluno seja aprovado.
 - Em seguida informe o nome da atividade e a nota do aluno.
 - Clique no botão Adicionar +.
-- Repita o processo até que tenha incluido todas as atividades e as respectivas notas.
+- Repita o processo até que tenha incluído todas as atividades e as respectivas notas.
 - Ao final da tabela terá o valor da média final e se o aluno foi ou não aprovado.
 
 ## Projeto
